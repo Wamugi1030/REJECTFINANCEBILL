@@ -1,0 +1,86 @@
+p {font-family: 'Times New Roman';
+  text-align: left;
+  width: 741px;
+  margin-top: 19.2px;
+  margin-bottom: 19.2px;
+  
+}
+.reject-bill {
+  font-size: 45px;
+  width: 4000px;
+}
+
+.reject-style {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.reject-two {
+  font-weight: bold;
+  font-size: 45px;
+  
+  color: red;
+}
+
+.said-ty {
+  font-family: 'Times New Roman';
+  font-size: 45px;
+  width: 4000px;
+}
+
+.ammend-two {
+  font-weight: bold;
+  font-size: 45px;
+  
+  color: red;
+}
+
+.bill-style {
+  font-weight: bold;
+  font-size: 45px;
+  
+  color: red;
+}
+
+.reject-style {
+  color: red;
+}
+
+.img-style {
+  width: 700px;
+}
+
+.information-ts {
+  font-size: 25px;
+}
+
+.information-ts:hover {
+  color: red;
+  cursor: pointer;
+  font-style: italic;
+  
+}
+
+.sixteen-changes {
+  font-weight: bold;
+}
+
+.input-search {
+ line-height: 15.456px;
+ max-width: 234px;
+ overflow-x: visible;
+ overflow-y: visible;
+ padding-block-end: 5.376px;
+ padding-block-start: 5.376px;
+ padding-bottom: 5.376px;
+ padding-inline-end: 0px;
+ padding-inline-start: 32px;
+ padding-left: 32px;
+ padding-right: 0px;
+ padding-top: 5.376px;
+ text-align: start;
+ text-indent: 0px;
+ text-rendering: auto;
+ text-size-adjust: 100%;
+ font-size: large;
+}
